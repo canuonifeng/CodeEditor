@@ -1,0 +1,9 @@
+{
+  "code": "CodeEditor",
+  "name": "代码编辑",
+  "description": "",
+  "author": "Canuo",
+  "version": "1.0.0",
+  "protocol": "3",
+  "support_version": "8.0.0+"
+}
